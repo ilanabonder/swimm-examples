@@ -1,0 +1,16 @@
+{
+    "id": "2JCvqTuwZ9zXi3kFVJF0",
+    "name": "📝 Making your first Docs",
+    "content": [
+        {
+            "type": "text",
+            "text": "hello"
+        }
+    ],
+    "symbols": {},
+    "file_version": "2.0.1",
+    "meta": {
+        "app_version": "0.4.4-0",
+        "file_blobs": {}
+    }
+}
