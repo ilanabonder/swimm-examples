@@ -1,0 +1,53 @@
+{
+    "id": "p1leU9KPrPsLtYYDp9Ea",
+    "name": "✔️ Always Up to Date ",
+    "content": [
+        {
+            "type": "text",
+            "text": "The best part is, docs are automatically kept in sync with the code as it changes! This means docs will be something you maintain, not write over and over again. When your selected snippets are up to date, they’ll be shown like this:"
+        },
+        {
+            "type": "snippet",
+            "lines": [
+                "*let getSpeech = () => {",
+                "*  let recognition = new SpeechRecognition();",
+                "*  recognition.lang = 'en-US';",
+                "*  recognition.start();",
+                "*  // recognition.continuous = false;",
+                "*  recognition.interimResults = true;",
+                "*  console.log('started rec');"
+            ],
+            "firstLineNumber": 4,
+            "path": "script.js",
+            "comments": []
+        },
+        {
+            "type": "text",
+            "text": "When minor changes happen, Swimm will try to automatically select code appropriate for the snippet, which you can accept or re-select. This is common when code moves up or down a few lines, or as the result of other trivial changes:"
+        },
+        {
+            "type": "text",
+            "text": "![](https://firebasestorage.googleapis.com/v0/b/swimmio-content/o/repositories%2F9QETjzDNLwFN5V7yvvIu%2F1e5a315e-5e50-41d9-bb94-1e8e4f9d5d27.png?alt=media&token=54f361b4-1c7b-4e72-afd0-d85923ce5105)"
+        },
+        {
+            "type": "text",
+            "text": "When code goes out of sync with snippets and it can’t be automatically reconciled, Swimm will ask you to re-select the code:"
+        },
+        {
+            "type": "text",
+            "text": "![](https://firebasestorage.googleapis.com/v0/b/swimmio-content/o/repositories%2F9QETjzDNLwFN5V7yvvIu%2F9c0cb141-33bf-4cee-9f97-34f221c7e0c3.png?alt=media&token=ea4151d0-a6c4-4997-bb73-f65f5fc4fe52)"
+        },
+        {
+            "type": "text",
+            "text": "In all instances, readers know if the code they’re looking at is up to date.\n\nReady to write a doc? Think about a small part of the code, and then click the 'edit' button up top to get started - we'll create a brand new empty doc for you!"
+        }
+    ],
+    "symbols": {},
+    "file_version": "2.0.1",
+    "meta": {
+        "app_version": "0.4.4-0",
+        "file_blobs": {
+            "script.js": "eb54367e4f3e0d1ed24281f227ee55e30c7f9a44"
+        }
+    }
+}
