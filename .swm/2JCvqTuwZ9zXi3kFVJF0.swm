@@ -16,7 +16,7 @@
         },
         {
             "type": "text",
-            "text": "Below you will see an example of a Swimm Docs that uses code snippets to show a pattern flow inside a script."
+            "text": "Below you will see an example of a Swimm Docs that creates a tutorial by selecting code snippets to show a pattern flow inside a script."
         },
         {
             "type": "text",
@@ -32,7 +32,7 @@
         },
         {
             "type": "text",
-            "text": "**Recognizing speech by clicking a button**"
+            "text": "**Tutorial: Recognizing speech by clicking a button**"
         },
         {
             "type": "snippet",
